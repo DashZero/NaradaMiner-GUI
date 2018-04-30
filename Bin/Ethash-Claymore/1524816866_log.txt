@@ -1,0 +1,52 @@
+15:14:26:635	2bc	Check and remove old log files...
+15:14:26:636	2bc	args: -r -1 -mport -23333 -epool asia.ethash-hub.miningpoolhub.com:20535 -ewal Meeh.multipoolminer -epsw x -esm 3 -allpools 1 -allcoins 1 -platform 2 -di 012 
+15:14:26:637	2bc	
+15:14:26:637	2bc	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+15:14:26:638	2bc	บ                Claymore's Dual GPU Miner - v11.2               บ
+15:14:26:639	2bc	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+15:14:26:639	2bc	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+15:14:26:640	2bc	
+15:14:26:641	2bc	b517 
+15:14:26:845	2bc	ETH: 1 pool is specified
+15:14:26:846	2bc	Main Ethereum pool is asia.ethash-hub.miningpoolhub.com:20535
+15:14:26:846	2bc	DCR: 0 pool is specified
+15:14:27:230	2bc	CUDA initializing...
+
+15:14:27:231	2bc	NVIDIA Cards available: 3 
+15:14:27:232	2bc	CUDA Driver Version/Runtime Version: 9.1/8.0
+15:14:27:255	2bc	GPU #0: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 3:0:0)
+
+15:14:27:258	2bc	GPU #1: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 4:0:0)
+
+15:14:27:261	2bc	GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 5:0:0)
+
+15:14:27:262	2bc	Total cards: 3 
+15:14:31:274	2bc	No AMD cards in the list, ADL library will not be used.
+15:14:31:346	2bc	NVML version: 9.388.13
+15:14:34:164	2bc	SSL: Imported 45 certificates from local storage
+15:14:34:266	2bc	No pool specified for Decred! Ethereum-only mining mode is enabled
+15:14:34:268	2bc	ETHEREUM-ONLY MINING MODE ENABLED (-mode 1)
+15:14:34:269	2bc	ETH: nicehash stratum mode
+15:14:34:270	2bc	"-allpools" option is set, default pools can be used for devfee, check "Readme" file for details.
+15:14:34:271	2bc	"-allcoins" option is set, default pools will be used for devfee, check "Readme" file for details.
+15:14:34:272	2bc	Watchdog enabled
+15:14:34:274	1b9c	ETH: Stratum - connecting to 'asia.ethash-hub.miningpoolhub.com' <139.162.43.210> port 20535 (unsecure)
+15:14:34:275	2bc	Remote management (READ-ONLY MODE) is enabled on port 23333
+15:14:34:287	2bc	
+15:14:34:359	1b9c	sent: {"id": 1, "method": "mining.subscribe", "params": ["MinerName/1.0.0", "EthereumStratum/1.0.0"]}
+
+15:14:34:360	1b9c	sent: {"id": 5, "method": "mining.extranonce.subscribe", "params": []}
+
+15:14:34:361	1b9c	sent: {"id": 2, "method": "mining.authorize", "params": ["Meeh.multipoolminer","x"]}
+
+15:14:34:363	1b9c	ETH: Stratum - Connected (asia.ethash-hub.miningpoolhub.com:20535) (unsecure)
+15:14:34:416	1b9c	buf: {"id":1,"result":[["mining.notify","deadbeefcafebabe362a000000000000","EthereumStratum/1.0.0"],"0015"],"error":null}
+
+15:14:34:570	1b9c	buf: {"id":null,"method":"mining.set_difficulty","params":[1.0011717677116394]}
+{"id":null,"method":"mining.notify","params":["151e","3ffd591ffcc97fb5e4150c521510e446bb11563ff632ea15845332648cabc086","1073dad0e5dc6412ec9bbdf5b174f07b78ae4a03e396fa8917d33bb8a77fe220",false]}
+
+15:14:34:571	1b9c	remove first packet 195
+15:14:34:637	1b70	Setting DAG epoch #183...
+15:14:35:417	1b9c	buf: {"id":2,"result":true,"error":null}
+
+15:14:35:418	1b9c	ETH: Authorized

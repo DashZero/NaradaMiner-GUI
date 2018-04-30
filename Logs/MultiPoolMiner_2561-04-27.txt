@@ -1,0 +1,130 @@
+2561-04-27 17:54:25 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 17:54:26 INFO: Loading saved statistics. 
+2561-04-27 17:54:26 INFO: Loading pool information. 
+2561-04-27 17:54:30 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 17:55:08 INFO: Selecting best pool for each algorithm. 
+2561-04-27 17:55:08 INFO: Getting miner information. 
+2561-04-27 17:56:18 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 17:56:18 INFO: Loading saved statistics. 
+2561-04-27 17:56:23 INFO: Loading pool information. 
+2561-04-27 17:56:28 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 17:57:04 INFO: Selecting best pool for each algorithm. 
+2561-04-27 17:57:06 INFO: Getting miner information. 
+2561-04-27 17:58:26 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 17:58:26 INFO: Loading saved statistics. 
+2561-04-27 17:58:30 INFO: Loading pool information. 
+2561-04-27 17:58:36 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 17:59:21 INFO: Selecting best pool for each algorithm. 
+2561-04-27 17:59:22 INFO: Getting miner information. 
+2561-04-27 17:59:35 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 17:59:36 INFO: Loading saved statistics. 
+2561-04-27 17:59:40 INFO: Loading pool information. 
+2561-04-27 18:00:22 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:01:55 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:01:57 INFO: Loading saved statistics. 
+2561-04-27 18:02:01 INFO: Loading pool information. 
+2561-04-27 18:02:10 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:04:24 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:04:24 INFO: Loading saved statistics. 
+2561-04-27 18:04:28 INFO: Loading pool information. 
+2561-04-27 18:04:33 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:05:27 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:05:27 INFO: Getting miner information. 
+2561-04-27 18:06:38 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:06:38 INFO: Loading saved statistics. 
+2561-04-27 18:06:43 INFO: Loading pool information. 
+2561-04-27 18:06:48 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:07:29 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:07:29 INFO: Getting miner information. 
+2561-04-27 18:07:30 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:07:32 INFO: Loading saved statistics. 
+2561-04-27 18:07:37 INFO: Loading pool information. 
+2561-04-27 18:07:43 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:08:03 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:08:04 INFO: Loading saved statistics. 
+2561-04-27 18:08:09 INFO: Loading pool information. 
+2561-04-27 18:08:14 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:08:24 WARNING: Stat file (MiningPoolHubCoins_AuroracoinQubit_Profit) is corrupt and will be reset. 
+2561-04-27 18:08:47 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:08:47 INFO: Getting miner information. 
+2561-04-27 18:09:14 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:09:16 INFO: Loading saved statistics. 
+2561-04-27 18:09:20 INFO: Loading pool information. 
+2561-04-27 18:10:31 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:10:33 INFO: Loading saved statistics. 
+2561-04-27 18:10:59 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:11:00 INFO: Loading saved statistics. 
+2561-04-27 18:11:04 INFO: Loading pool information. 
+2561-04-27 18:11:09 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:12:59 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:13:00 INFO: Loading saved statistics. 
+2561-04-27 18:13:04 INFO: Loading pool information. 
+2561-04-27 18:13:09 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:14:04 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:14:04 INFO: Getting miner information. 
+2561-04-27 18:16:54 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:16:55 INFO: Loading saved statistics. 
+2561-04-27 18:17:00 INFO: Loading pool information. 
+2561-04-27 18:22:17 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:22:20 INFO: Loading saved statistics. 
+2561-04-27 18:22:24 INFO: Loading pool information. 
+2561-04-27 18:22:30 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:23:04 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:23:07 INFO: Getting miner information. 
+2561-04-27 18:23:28 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:23:29 INFO: Loading saved statistics. 
+2561-04-27 18:23:34 INFO: Loading pool information. 
+2561-04-27 18:24:19 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:24:22 INFO: Getting miner information. 
+2561-04-27 18:26:38 INFO: Calculating profit for each miner. 
+2561-04-27 18:26:51 INFO: Starting miner (Dstm): 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\Equihash-DSTM\zm.exe --telemetry --server asia.equihash-hub.miningpoolhub.com --port 20570 --user Meeh.multipoolminer --pass x --color'
+2561-04-27 18:27:04 INFO: Start waiting before next run. 
+2561-04-27 18:27:34 INFO: Finish waiting before next run. 
+2561-04-27 18:27:34 INFO: Saving hash rates. 
+2561-04-27 18:27:34 INFO: Starting next run. 
+2561-04-27 18:27:35 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:27:35 INFO: Loading saved statistics. 
+2561-04-27 18:27:42 INFO: Loading pool information. 
+2561-04-27 18:28:16 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:28:16 INFO: Loading saved statistics. 
+2561-04-27 18:28:21 INFO: Loading pool information. 
+2561-04-27 18:28:25 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:28:58 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:28:58 INFO: Getting miner information. 
+2561-04-27 18:30:50 INFO: Calculating profit for each miner. 
+2561-04-27 18:30:51 WARNING: No miners available. 
+2561-04-27 18:31:10 WARNING: Cannot download C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-TPruvot\ccminer-x64.exe distributed at https://github.com/tpruvot/ccminer/releases/download/2.2.4-tpruvot/ccminer-x64-2.2.4-cuda9.7z. 
+2561-04-27 18:31:10 WARNING: Searching for C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-TPruvot\ccminer-x64.exe. 
+2561-04-27 18:31:32 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:31:34 INFO: Loading saved statistics. 
+2561-04-27 18:31:37 INFO: Loading pool information. 
+2561-04-27 18:32:15 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:32:16 INFO: Getting miner information. 
+2561-04-27 18:34:33 INFO: Calculating profit for each miner. 
+2561-04-27 18:34:45 INFO: Starting miner (BMiner): 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-BMiner\BMiner.exe -api 127.0.0.1:1880 -uri stratum://Meeh.multipoolminer:x@asia.equihash-hub.miningpoolhub.com:17023 -nofee -watchdog=false'
+2561-04-27 18:34:54 WARNING: Cannot download C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-Alexis78hsr\ccminer-alexis.exe distributed at https://github.com/nemosminer/ccminer-hcash/releases/download/alexishsr/ccminer-hsr-alexis-x86-cuda8.7z. 
+2561-04-27 18:34:54 WARNING: Searching for C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-Alexis78hsr\ccminer-alexis.exe. 
+2561-04-27 18:38:47 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:38:48 INFO: Loading saved statistics. 
+2561-04-27 18:38:52 INFO: Loading pool information. 
+2561-04-27 18:38:57 WARNING: Pool API (BlazePool) has failed. 
+2561-04-27 18:39:27 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:39:28 WARNING: Pool prices are out of sync (22 minutes). 
+2561-04-27 18:39:28 INFO: Getting miner information. 
+2561-04-27 18:40:55 INFO: Calculating profit for each miner. 
+2561-04-27 18:41:03 INFO: Starting miner (BMiner): 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-BMiner\BMiner.exe -api 127.0.0.1:1880 -uri stratum://Meeh.multipoolminer:x@asia.equihash-hub.miningpoolhub.com:17023 -nofee -watchdog=false'
+2561-04-27 18:41:13 INFO: Start waiting before next run. 
+2561-04-27 18:41:15 WARNING: Cannot download C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-Alexis78hsr\ccminer-alexis.exe distributed at https://github.com/nemosminer/ccminer-hcash/releases/download/alexishsr/ccminer-hsr-alexis-x86-cuda8.7z. 
+2561-04-27 18:41:15 WARNING: Searching for C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-Alexis78hsr\ccminer-alexis.exe. 
+2561-04-27 18:41:44 INFO: Finish waiting before next run. 
+2561-04-27 18:41:44 INFO: Saving hash rates. 
+2561-04-27 18:41:44 INFO: Starting next run. 
+2561-04-27 18:41:45 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:41:46 INFO: Loading saved statistics. 
+2561-04-27 18:41:51 INFO: Loading pool information. 
+2561-04-27 18:42:40 INFO: Selecting best pool for each algorithm. 
+2561-04-27 18:42:42 INFO: Getting miner information. 
+2561-04-27 18:44:37 INFO: Updating exchange rates from Coinbase. 
+2561-04-27 18:44:37 INFO: Loading saved statistics. 
+2561-04-27 18:44:42 INFO: Loading pool information. 
+2561-04-27 18:44:47 WARNING: Pool API (BlazePool) has failed. 

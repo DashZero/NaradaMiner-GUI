@@ -1,0 +1,87 @@
+**********************
+PowerShell transcript start
+Start time: 20180427175824
+Username: 42B7\oak
+RunAs User: 42B7\oak
+Configuration Name: 
+Machine: 42B7 (Microsoft Windows NT 6.2.9200.0)
+Host Application: C:\Program Files\PowerShell\6.1.0-preview.1\pwsh.dll -noexit -executionpolicy bypass -command .\NaradaMiner\Core.ps1 -Wallet 358nQ1UpueNaw3118AmwA1PriTwRU9qbzM -Algorithm Blake2s,CryptoNight,Decred,Equihash,Ethash -watchdog:$True -interval 60 -region Asia -type NVIDIA -UserName Meeh -workername multipoolminer -PoolName Blazepool,NiceHash,Zpool -donate 24 -currency THB,THB,THB -delay 5 -SwitchingPrevention 2
+Process ID: 344
+PSVersion: 6.1.0-preview.1
+PSEdition: Core
+GitCommitId: v6.1.0-preview.1
+OS: Microsoft Windows 10.0.16299 
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.1.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logs\MultiPoolMiner_2561-04-27_17-58-24.txt
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.
+INFO: Loading pool information.
+PS>TerminatingError(Invoke-RestMethod): "The connection with the server was terminated abnormally"
+WARNING: Pool API (BlazePool) has failed.
+INFO: Selecting best pool for each algorithm.
+INFO: Getting miner information.
+PS>TerminatingError(Invoke-Expression): "Exception calling "GetPlatformIDs" with "0" argument(s): "Unable to load DLL 'OpenCL': The specified module could not be found. (Exception from HRESULT: 0x8007007E)""
+>> TerminatingError(Invoke-Expression): "At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties."
+>> TerminatingError(Invoke-Expression): "At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties."
+>> TerminatingError(Invoke-Expression): "At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties."
+>> TerminatingError(Invoke-Expression): "At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties."
+>> TerminatingError(Invoke-Expression): "At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties."
+Invoke-Expression : At line:1 char:5
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++     ~~~~~~~~~~~~
+Unexpected token 'remoteaccess' in expression or statement.
+
+At line:1 char:1
++ ""--remoteaccess -S $($Pools.CryptoNight.Host):$($Pools.CryptoNight.P ...
++ ~~
+The '--' operator works only on variables or on properties.
+At C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Include.psm1:214 char:38
++ ...             catch {$Expression = Invoke-Expression "`"$Expression`""}
++                                      ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
++ CategoryInfo          : ParserError: (:) [Invoke-Expression], ParseException
++ FullyQualifiedErrorId : UnexpectedToken,Microsoft.PowerShell.Commands.InvokeExpressionCommand

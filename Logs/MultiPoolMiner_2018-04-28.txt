@@ -1,0 +1,45 @@
+2018-04-28 21:07:42 INFO: Updating exchange rates from Coinbase. 
+2018-04-28 21:07:43 INFO: Loading saved statistics. 
+2018-04-28 21:07:47 INFO: Loading pool information. 
+2018-04-28 21:07:59 WARNING: Pool API (Blockmunch) returned nothing. 
+2018-04-28 21:08:29 INFO: Selecting best pool for each algorithm. 
+2018-04-28 21:08:29 INFO: Getting miner information. 
+2018-04-28 21:08:41 INFO: Calculating profit for each miner. 
+2018-04-28 21:08:51 INFO: Starting miner (BMiner): 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-BMiner\BMiner.exe -api 127.0.0.1:1880 -uri stratum://Meeh.Alpha:x@asia.equihash-hub.miningpoolhub.com:20570 -nofee -watchdog=false'
+2018-04-28 21:09:02 INFO: Start waiting before next run. 
+2018-04-28 21:09:32 INFO: Finish waiting before next run. 
+2018-04-28 21:09:32 INFO: Saving hash rates. 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:54+07:00] Bminer: When Crypto-mining Made Fast (v5.5.0-aba7617) 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:54+07:00] Checking updates                             
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Watchdog has started.                        
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Starting miner on devices [0]                
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Connected to asia.equihash-hub.miningpoolhub.com:20570 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Subscribed to stratum server                 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Set nonce to 3e0095ef                        
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Starting miner on device 0...                
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Started miner on device 0                    
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Set target to 0000000000000000000000000000000000000000000000000000000000000100 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Received new job e0a                         
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:56+07:00] Starting the management API at 127.0.0.1:1880 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:57+07:00] Authorized                                   
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:08:57+07:00] Set target to 000000000000000000000000000000000000000000000070dbb66ddbb66d0100 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:09:06+07:00] Received new job e0b                         
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:09:26+07:00] [GPU 0] Speed: 51.04 Sol/s 29.13 Nonce/s Temp: 66C Fan: 0% Power: 0W +Inf Sol/J 
+2018-04-28 21:10:09 VERBOSE: BMiner: [INFO] [2018-04-28T21:09:26+07:00] Total 51.04 Sol/s 29.13 Nonce/s Accepted shares 0 Rejected shares 0 
+2018-04-28 21:10:09 INFO: Starting next run. 
+2018-04-28 21:10:10 INFO: Updating exchange rates from Coinbase. 
+2018-04-28 21:10:10 INFO: Loading saved statistics. 
+2018-04-28 21:10:33 INFO: Loading pool information. 
+2018-04-28 21:11:50 WARNING: Pool API (Blockmunch) returned nothing. 
+2018-04-28 21:15:53 INFO: Selecting best pool for each algorithm. 
+2018-04-28 21:15:58 INFO: Getting miner information. 
+2018-04-28 21:20:27 INFO: Updating exchange rates from Coinbase. 
+2018-04-28 21:20:29 INFO: Loading saved statistics. 
+2018-04-28 21:21:26 INFO: Loading pool information. 
+2018-04-28 21:23:04 WARNING: Pool API (Blockmunch - Copy) returned nothing. 
+2018-04-28 21:23:05 WARNING: Pool API (Blockmunch) has failed. 
+2018-04-28 21:31:48 INFO: Updating exchange rates from Coinbase. 
+2018-04-28 21:31:49 INFO: Loading saved statistics. 
+2018-04-28 21:32:41 INFO: Loading pool information. 
+2018-04-28 21:34:22 WARNING: Pool API (Blockmunch - Copy) returned nothing. 
+2018-04-28 21:34:24 WARNING: Pool API (Blockmunch) returned nothing. 

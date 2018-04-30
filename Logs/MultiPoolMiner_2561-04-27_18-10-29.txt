@@ -1,0 +1,22 @@
+**********************
+PowerShell transcript start
+Start time: 20180427181029
+Username: 42B7\oak
+RunAs User: 42B7\oak
+Configuration Name: 
+Machine: 42B7 (Microsoft Windows NT 6.2.9200.0)
+Host Application: C:\Program Files\PowerShell\6.1.0-preview.1\pwsh.dll -noexit -executionpolicy bypass -command .\NaradaMiner\Core.ps1 -Wallet 358nQ1UpueNaw3118AmwA1PriTwRU9qbzM -Algorithm Blake2s -MinerName Cast -interval 60 -region Asia -type NVIDIA -UserName Meeh -workername multipoolminer -PoolName Blazepool -donate 24 -currency THB -delay 5 -SwitchingPrevention 2
+Process ID: 9084
+PSVersion: 6.1.0-preview.1
+PSEdition: Core
+GitCommitId: v6.1.0-preview.1
+OS: Microsoft Windows 10.0.16299 
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.1.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logs\MultiPoolMiner_2561-04-27_18-10-29.txt
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.

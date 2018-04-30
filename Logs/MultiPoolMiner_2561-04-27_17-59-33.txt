@@ -1,0 +1,53 @@
+**********************
+PowerShell transcript start
+Start time: 20180427175933
+Username: 42B7\oak
+RunAs User: 42B7\oak
+Configuration Name: 
+Machine: 42B7 (Microsoft Windows NT 6.2.9200.0)
+Host Application: C:\Program Files\PowerShell\6.1.0-preview.1\pwsh.dll -noexit -executionpolicy bypass -windowstyle maximized -command & .\Core.ps1 -wallet 358nQ1UpueNaw3118AmwA1PriTwRU9qbzM -username Meeh -workername multipoolminer -region asia -currency thb -type nvidia -poolname miningpoolhubcoins,zpool,nicehash -algorithm blake2s,cryptonight,decrednicehash,ethash,ethash2gb,equihash,groestl,keccak,lbry,lyra2re2,lyra2z,neoscrypt,pascal,sib,skunk -donate 24 -watchdog -switchingprevention 2
+Process ID: 9852
+PSVersion: 6.1.0-preview.1
+PSEdition: Core
+GitCommitId: v6.1.0-preview.1
+OS: Microsoft Windows 10.0.16299 
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.1.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logs\MultiPoolMiner_2561-04-27_17-59-33.txt
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.
+INFO: Loading pool information.
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Bitcore_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Blake2s_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Blakecoin_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_C11_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Groestl_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_HMQ1725_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_HSR_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Keccak_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Lbry_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Lyra2RE2_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_M7m_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_MyriadGroestl_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_NeoScrypt_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Nist5_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_PHI_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Quark_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Qubit_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Scrypt_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Sib_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Skein_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Skunk_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Timetravel_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Tribus_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_X11_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_X16R_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_X16s_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_X17_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Xevan_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\oak\Desktop\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BlazePool_Yescrypt_Profit.txt' because it does not exist."
+INFO: Selecting best pool for each algorithm.

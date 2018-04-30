@@ -1,0 +1,23 @@
+15:34:37:702	1218	Check and remove old log files...
+15:34:37:709	1218	args: -r -1 -mport -23333 -epool asia.ethash-hub.miningpoolhub.com:20535 -ewal Meeh.multipoolminer -epsw x -esm 3 -allpools 1 -allcoins 1 -platform 2 -di 012 
+15:34:37:715	1218	
+15:34:37:718	1218	ษออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออป
+15:34:37:720	1218	บ                Claymore's Dual GPU Miner - v11.2               บ
+15:34:37:723	1218	บ              ETH + DCR/SIA/LBC/PASC/BLAKE2S/KECCAK             บ
+15:34:37:726	1218	ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ
+15:34:37:736	1218	
+15:34:37:740	1218	b517 
+15:34:37:954	1218	ETH: 1 pool is specified
+15:34:37:957	1218	Main Ethereum pool is asia.ethash-hub.miningpoolhub.com:20535
+15:34:37:961	1218	DCR: 0 pool is specified
+15:34:39:671	1218	CUDA initializing...
+
+15:34:39:675	1218	NVIDIA Cards available: 3 
+15:34:39:679	1218	CUDA Driver Version/Runtime Version: 9.1/8.0
+15:34:39:816	1218	GPU #0: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 3:0:0)
+
+15:34:39:827	1218	GPU #1: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 4:0:0)
+
+15:34:39:839	1218	GPU #2: GeForce GTX 1070, 8192 MB available, 15 compute units, capability: 6.1  (pci bus 5:0:0)
+
+15:34:39:841	1218	Total cards: 3 

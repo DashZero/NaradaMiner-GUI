@@ -1,0 +1,25 @@
+**********************
+PowerShell transcript start
+Start time: 20180428213127
+Username: SLIM-JIM\mee_o
+RunAs User: SLIM-JIM\mee_o
+Configuration Name: 
+Machine: SLIM-JIM (Microsoft Windows NT 6.2.9200.0)
+Host Application: C:\Program Files\PowerShell\6.1.0-preview.1\pwsh.dll -noexit -executionpolicy bypass -command .\NaradaMiner\Core.ps1 -Wallet 3A9cr73Vpoe8Y3KzBDEYUwxGdMEqab31Lp -Algorithm Bitcore,Blake2s,Blakecoin,BlakeVanilla,C11,CryptoNight,Decred,Equihash,Ethash,Groestl,HMQ1725,HSR,JHA,Keccak,KeccakC,Lbry,Lyra2RE2,Lyra2z,MyriadGroestl,NeoScrypt,Nist5,Pascal,PHI,Polytimos,Quark,Qubit,Scrypt,SHA256,Sia,Sib,Skein,Skunk,Timetravel,Tribus,Veltor,X11,X11evo,X12,X16R,X16S,X17,Xevan,Yescrypt -MinerName BMiner,Cast,Ccminer22,CcminerAlexis78,CcminerBitcore,CcminerHsr,CcminerKeccakc,CcminerKlaust,CcminerLyra2RE2,CcminerLyra2z,CcminerNanashi,CcminerNevermore,CcminerPalginX64,CcminerPalginX86,CcminerPhi,CcminerPolytimos,CcminerRaven,CcminerSib,CcminerSkunk,CcminerSp,CcminerSuprminer,CcminerTpruvotX64,CcminerTpruvotX86,CcminerX11Gost,CcminerX16r,CcminerXevan,ClaymoreAmd,ClaymoreAmd2gbBlake2s20,ClaymoreAmd2gbBlake2s30,ClaymoreAmd2gbBlake2s40,ClaymoreAmd2gbDecred20,ClaymoreAmd2gbDecred40,ClaymoreAmd2gbKeccak20,ClaymoreAmd2gbKeccak30,ClaymoreAmd2gbKeccak40,ClaymoreAmd2gbLbry20,ClaymoreAmd2gbLbry30,ClaymoreAmd2gbLbry40,ClaymoreAmd2gbPascal20,ClaymoreAmd2gbPascal30,ClaymoreAmd2gbPascal40,ClaymoreAmdBlake2s20,ClaymoreAmdBlake2s30,ClaymoreAmdBlake2s40,ClaymoreAmdDecred20,ClaymoreAmdDecred30,ClaymoreAmdDecred40,ClaymoreAmdKeccak20,ClaymoreAmdKeccak30,ClaymoreAmdKeccak40,ClaymoreAmdLbry20,ClaymoreAmdLbry30,ClaymoreAmdLbry40,ClaymoreAmdPascal20,ClaymoreAmdPascal30,ClaymoreAmdPascal40,ClaymoreCpu,ClaymoreNvidia,ClaymoreNvidia2gbBlake2s20,ClaymoreNvidia2gbBlake2s30,ClaymoreNvidia2gbBlake2s40,ClaymoreNvidia2gbDecred20,ClaymoreNvidia2gbDecred30,ClaymoreNvidia2gbDecred40,ClaymoreNvidia2gbKeccak20,ClaymoreNvidia2gbKeccak30,ClaymoreNvidia2gbKeccak40,ClaymoreNvidia2gbLbry20,ClaymoreNvidia2gbLbry30,ClaymoreNvidia2gbLbry40,ClaymoreNvidia2gbPascal20,ClaymoreNvidia2gbPascal30,ClaymoreNvidia2gbPascal40,ClaymoreNvidiaBlake2s20,ClaymoreNvidiaBlake2s30,ClaymoreNvidiaBlake2s40,ClaymoreNvidiaDecred20,ClaymoreNvidiaDecred30,ClaymoreNvidiaDecred40,ClaymoreNvidiaKeccak20,ClaymoreNvidiaKeccak30,ClaymoreNvidiaKeccak40,ClaymoreNvidiaLbry30,ClaymoreNvidiaLbry40,ClaymoreNvidiaPascal20,ClaymoreNvidiaPascal40,CpuminerJayddeeAesavx,CpuminerJayddeeAessse42,CpuminerJayddeeAvx2,CpuminerJayddeeAvx2sha,CpuminerJayddeeSse2,CpuminerTpruvotAvx2,CpuminerTpruvotCore2,CpuminerTpruvotCorei7,DSTM,Eminer,EthminerAmd,EthminerNvidia,EWBF,ExcavatorNvidia1,ExcavatorNvidia2,filename.bat,FireiceAmd,FireiceCpu,FireiceNvidia,GatelessGate,Hsrminer,list,MkxminerAmd,NsgminerAmd,NsgminerNvidia,PalginNvidia,PhoenixMinerAmd,PhoenixMinerNvidia,Prospector,Sgminer,SgminerBitcore,SgminerHsr,SgminerLyra2z,SgminerPHI,SgminerSkein,SgminerTribus,SgminerX16r,SgminerX16s,SgminerXevan,XmrigAmd,XmrigCpu,XmrigNvidia,Z-Enemy -interval 60 -region Asia -type NVIDIA -UserName Meeh -workername Alpha -PoolName AHashPool -donate 24 -currency THB,THB -delay 5 -SwitchingPrevention 2
+Process ID: 20316
+PSVersion: 6.1.0-preview.1
+PSEdition: Core
+GitCommitId: v6.1.0-preview.1
+OS: Microsoft Windows 10.0.16299 
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.1.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logs\MultiPoolMiner_2018-04-28_21-31-27.txt
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.
+INFO: Loading pool information.
+WARNING: Pool API (Blockmunch - Copy) returned nothing.
+WARNING: Pool API (Blockmunch) returned nothing.

@@ -1,0 +1,58 @@
+[INFO] [2018-04-28T21:08:54+07:00] Bminer: When Crypto-mining Made Fast (v5.5.0-aba7617) 
+[INFO] [2018-04-28T21:08:54+07:00] Checking updates                             
+[INFO] [2018-04-28T21:08:56+07:00] Watchdog has started.                        
+[INFO] [2018-04-28T21:08:56+07:00] Starting miner on devices [0]                
+[INFO] [2018-04-28T21:08:56+07:00] Connected to asia.equihash-hub.miningpoolhub.com:20570 
+[INFO] [2018-04-28T21:08:56+07:00] Subscribed to stratum server                 
+[INFO] [2018-04-28T21:08:56+07:00] Set nonce to 3e0095ef                        
+[INFO] [2018-04-28T21:08:56+07:00] Starting miner on device 0...                
+[INFO] [2018-04-28T21:08:56+07:00] Started miner on device 0                    
+[INFO] [2018-04-28T21:08:56+07:00] Set target to 0000000000000000000000000000000000000000000000000000000000000100 
+[INFO] [2018-04-28T21:08:56+07:00] Received new job e0a                         
+[INFO] [2018-04-28T21:08:56+07:00] Starting the management API at 127.0.0.1:1880 
+[INFO] [2018-04-28T21:08:57+07:00] Authorized                                   
+[INFO] [2018-04-28T21:08:57+07:00] Set target to 000000000000000000000000000000000000000000000070dbb66ddbb66d0100 
+[INFO] [2018-04-28T21:09:06+07:00] Received new job e0b                         
+[INFO] [2018-04-28T21:09:26+07:00] [GPU 0] Speed: 51.04 Sol/s 29.13 Nonce/s Temp: 66C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:09:26+07:00] Total 51.04 Sol/s 29.13 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:09:56+07:00] [GPU 0] Speed: 52.44 Sol/s 28.77 Nonce/s Temp: 72C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:09:56+07:00] Total 52.44 Sol/s 28.77 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:10:01+07:00] Set target to 0000000000000000000000000000000000000000000000c0829753f0720a0200 
+[INFO] [2018-04-28T21:10:01+07:00] Received new job e0c                         
+[INFO] [2018-04-28T21:10:26+07:00] [GPU 0] Speed: 53.78 Sol/s 28.33 Nonce/s Temp: 70C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:10:26+07:00] Total 53.78 Sol/s 28.33 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:10:36+07:00] Received new job e0d                         
+[INFO] [2018-04-28T21:10:56+07:00] [GPU 0] Speed: 53.75 Sol/s 28.25 Nonce/s Temp: 69C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:10:56+07:00] Total 53.75 Sol/s 28.25 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:11:17+07:00] Set target to 00000000000000000000000000000000000000000000008028462e0e5bea0200 
+[INFO] [2018-04-28T21:11:18+07:00] Received new job e0e                         
+[INFO] [2018-04-28T21:11:26+07:00] [GPU 0] Speed: 52.97 Sol/s 28.24 Nonce/s Temp: 69C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:11:26+07:00] Total 52.97 Sol/s 28.24 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:11:56+07:00] [GPU 0] Speed: 52.37 Sol/s 28.00 Nonce/s Temp: 69C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:11:56+07:00] Total 52.37 Sol/s 28.00 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:12:12+07:00] Set target to 0000000000000000000000000000000000000000000000c0f0d1afef382a0400 
+[INFO] [2018-04-28T21:12:12+07:00] Received new job e0f                         
+[INFO] [2018-04-28T21:12:26+07:00] [GPU 0] Speed: 52.38 Sol/s 28.03 Nonce/s Temp: 70C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:12:26+07:00] Total 52.38 Sol/s 28.03 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:12:56+07:00] [GPU 0] Speed: 52.43 Sol/s 28.11 Nonce/s Temp: 70C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:12:56+07:00] Total 52.43 Sol/s 28.11 Nonce/s Accepted shares 0 Rejected shares 0 
+[INFO] [2018-04-28T21:13:07+07:00] Set target to 00000000000000000000000000000000000000000000008033be1fc42cf30500 
+[INFO] [2018-04-28T21:13:08+07:00] Received new job e10                         
+[INFO] [2018-04-28T21:13:20+07:00] Accepted share #4                            
+[INFO] [2018-04-28T21:13:26+07:00] [GPU 0] Speed: 52.48 Sol/s 27.89 Nonce/s Temp: 71C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:13:26+07:00] Total 52.48 Sol/s 27.89 Nonce/s Accepted shares 1 Rejected shares 0 
+[INFO] [2018-04-28T21:13:28+07:00] Received new job e11                         
+[INFO] [2018-04-28T21:13:56+07:00] [GPU 0] Speed: 53.15 Sol/s 27.96 Nonce/s Temp: 72C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:13:56+07:00] Total 53.15 Sol/s 27.96 Nonce/s Accepted shares 1 Rejected shares 0 
+[INFO] [2018-04-28T21:14:25+07:00] Set target to 00000000000000000000000000000000000000000000000093c608cff67f0800 
+[INFO] [2018-04-28T21:14:25+07:00] Received new job e12                         
+[INFO] [2018-04-28T21:14:26+07:00] [GPU 0] Speed: 52.47 Sol/s 27.36 Nonce/s Temp: 71C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:14:26+07:00] Total 52.47 Sol/s 27.36 Nonce/s Accepted shares 1 Rejected shares 0 
+[INFO] [2018-04-28T21:14:53+07:00] Accepted share #5                            
+[INFO] [2018-04-28T21:14:56+07:00] [GPU 0] Speed: 51.98 Sol/s 27.51 Nonce/s Temp: 72C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:14:56+07:00] Total 51.98 Sol/s 27.51 Nonce/s Accepted shares 2 Rejected shares 0 
+[INFO] [2018-04-28T21:15:20+07:00] Received new job e13                         
+[INFO] [2018-04-28T21:15:26+07:00] [GPU 0] Speed: 52.20 Sol/s 27.54 Nonce/s Temp: 72C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:15:26+07:00] Total 52.20 Sol/s 27.54 Nonce/s Accepted shares 2 Rejected shares 0 
+[INFO] [2018-04-28T21:15:56+07:00] [GPU 0] Speed: 52.80 Sol/s 27.78 Nonce/s Temp: 72C Fan: 0% Power: 0W +Inf Sol/J 
+[INFO] [2018-04-28T21:15:56+07:00] Total 52.80 Sol/s 27.78 Nonce/s Accepted shares 2 Rejected shares 0 

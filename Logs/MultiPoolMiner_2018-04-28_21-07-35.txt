@@ -1,0 +1,68 @@
+**********************
+PowerShell transcript start
+Start time: 20180428210735
+Username: SLIM-JIM\mee_o
+RunAs User: SLIM-JIM\mee_o
+Configuration Name: 
+Machine: SLIM-JIM (Microsoft Windows NT 6.2.9200.0)
+Host Application: C:\Program Files\PowerShell\6.1.0-preview.1\pwsh.dll -noexit -executionpolicy bypass -command .\NaradaMiner\Core.ps1 -Wallet 3A9cr73Vpoe8Y3KzBDEYUwxGdMEqab31Lp -Algorithm Blake2s,Blakecoin,BlakeVanilla,C11,Decred,Equihash,Ethash,Groestl -MinerName BMiner,Cast,Ccminer22,CcminerAlexis78,CcminerBitcore,CcminerHsr,CcminerKeccakc,CcminerKlaust,CcminerLyra2RE2,CcminerLyra2z,CcminerNanashi,CcminerNevermore,CcminerPalginX64,CcminerPalginX86,CcminerPhi,CcminerPolytimos,CcminerRaven,CcminerSib,CcminerSkunk,CcminerSp,CcminerSuprminer,CcminerTpruvotX64,CcminerTpruvotX86,CcminerX11Gost,CcminerX16r,CcminerXevan,ClaymoreAmd,ClaymoreAmd2gbBlake2s20,ClaymoreAmd2gbBlake2s30,ClaymoreAmd2gbBlake2s40,ClaymoreAmd2gbDecred20,ClaymoreAmd2gbDecred30,ClaymoreAmd2gbDecred40,ClaymoreAmd2gbKeccak20,ClaymoreAmd2gbKeccak30,ClaymoreAmd2gbKeccak40,ClaymoreAmd2gbLbry20 -interval 60 -region Asia -type NVIDIA -UserName Meeh -workername Alpha -PoolName AHashPool -donate 24 -currency THB -delay 5 -SwitchingPrevention 2
+Process ID: 3540
+PSVersion: 6.1.0-preview.1
+PSEdition: Core
+GitCommitId: v6.1.0-preview.1
+OS: Microsoft Windows 10.0.16299 
+Platform: Win32NT
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.10032.0, 6.1.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+WSManStackVersion: 3.0
+**********************
+Transcript started, output file is .\Logs\MultiPoolMiner_2018-04-28_21-07-35.txt
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.
+INFO: Loading pool information.
+WARNING: Pool API (Blockmunch) returned nothing.
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\Hashrefinery_M7m_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_X13_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_CJ_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_FRM_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_LINX_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_ONION_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\ZergPool_XZC_Profit.txt' because it does not exist."
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\Zpool_Yescryptr16_Profit.txt' because it does not exist."
+INFO: Selecting best pool for each algorithm.
+INFO: Getting miner information.
+INFO: Calculating profit for each miner.
+INFO: Starting miner (BMiner): 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Bin\NVIDIA-BMiner\BMiner.exe -api 127.0.0.1:1880 -uri stratum://Meeh.Alpha:x@asia.equihash-hub.miningpoolhub.com:20570 -nofee -watchdog=false'
+
+
+   Type: NVIDIA
+
+Miner         Algorithm        Speed THB/Day Accuracy    THB/GH/Day Pool
+-----         ---------        ----- ------- --------    ---------- ----
+BMiner        Equihash  Benchmarking Unknown      97% 99,897,895.49 MiningPoolHubCoins-Zcash
+CcminerKlaust Groestl   Benchmarking Unknown     100%        112.04 AHashPool
+
+
+
+
+   Status: Running
+
+ Speed Active                      Launched Command
+ ----- ------                      -------- -------
+0  H/s 00 Days 00 Hours 00 Minutes Once     Bin\NVIDIA-BMiner\BMiner.exe -api 127.0.0.1:1880 -uri
+                                            stratum://Meeh.Alpha:x@asia.equihash-hub.miningpoolhub.com:20570 -nofee
+                                            -watchdog=false
+
+
+INFO: Start waiting before next run.
+INFO: Finish waiting before next run.
+INFO: Saving hash rates.
+PS>TerminatingError(Get-Content): "The running command stopped because the preference variable "ErrorActionPreference" or common parameter is set to Stop: Cannot find path 'C:\Users\mee_o\Desktop\Project Z\psGUI-Thai\psGUI-Thai\psGUI\bin\Release\NaradaMiner\Stats\BMiner_Equihash_HashRate.txt' because it does not exist."
+INFO: Starting next run.
+INFO: Updating exchange rates from Coinbase.
+INFO: Loading saved statistics.
+INFO: Loading pool information.
+WARNING: Pool API (Blockmunch) returned nothing.
+INFO: Selecting best pool for each algorithm.
+INFO: Getting miner information.
